@@ -17,7 +17,7 @@ O programa tem três modos: encrypt, decrypt e get_key. Para rodar o programa, u
 3. python3 vigenere.py get_key [filename] [senha3] [lingua]
 ```
 
-texto1, senha1, texto2, senha2 e senha3 precisam ser strings somente com caracteres alfabéticos A-Z maiúsculos. em [lingua] pode-se colocar `PTBR' ou `EN'. 
+texto1, senha1, texto2, senha2 e senha3 precisam ser strings somente com caracteres alfabéticos A-Z maiúsculos. em [lingua] pode-se colocar `PTBR` ou `EN`. 
 Exemplo de comandos válidos:
 
 ```
